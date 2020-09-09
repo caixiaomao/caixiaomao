@@ -6,6 +6,10 @@
 
 I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+### Visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_icons=true&cache_seconds=86400&theme=tokyonight&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
