@@ -14,7 +14,7 @@ I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/
 
 ![caixiaomao's github stats](https://github-readme-stats.vercel.app/api?username=caixiaomao&show_icons=true&theme=tokyonight)
 
-### Top Langs
+### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caixiaomao&layout=compact&theme=tokyonight)](https://github.com/caixiaomao/github-readme-stats)
 
