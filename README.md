@@ -4,11 +4,11 @@
 
 <img align='right' src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
 
-I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am currently studying go and kotlin. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=caixiaomao)
 
 ### Github Repos
 
