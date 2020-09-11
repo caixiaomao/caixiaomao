@@ -12,7 +12,7 @@ I am currently studying go and kotlin. <img src="https://media.giphy.com/media/W
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_icons=true&cache_seconds=86400&theme=tokyonight&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=caixiaomao&show_icons=true&cache_seconds=86400&theme=tokyonight&repo=caixiaomao.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats
 
