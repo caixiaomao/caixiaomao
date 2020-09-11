@@ -8,7 +8,7 @@ I am currently studying go and kotlin. <img src="https://media.giphy.com/media/W
 
 ### Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=caixiaomao)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=caixiaomao.caixiaomao.github.io)
 
 ### Github Repos
 
