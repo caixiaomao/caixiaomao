@@ -6,6 +6,9 @@
 
 I am currently studying go and kotlin. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+### Netlify Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b19d243-a8c8-4a4d-840a-8ebcc14a5ee2/deploy-status)](https://app.netlify.com/sites/caixiaomao/deploys)
+
 ### Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=caixiaomao.caixiaomao.github.io)
