@@ -6,9 +6,6 @@
 
 I am currently studying go and kotlin. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### 云喵🐱
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c72a907c4e3c4e2e87c3384b58757dc6)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=caixiaomao/cloud-miao&amp;utm_campaign=Badge_Grade)
-
 ### ant-design-vue-pro-custom😜
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8e98792e032442d2a426190d2de7735d)](https://www.codacy.com/gh/caixiaomao/ant-design-vue-pro/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=caixiaomao/ant-design-vue-pro&amp;utm_campaign=Badge_Grade)
 
