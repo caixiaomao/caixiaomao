@@ -28,4 +28,8 @@ I am currently studying go and kotlin. <img src="https://media.giphy.com/media/W
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caixiaomao&layout=compact&theme=tokyonight)](https://github.com/caixiaomao/github-readme-stats)
 
+### commit history :muscle:
+![Metrics](https://metrics.lecoq.io/caixiaomao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
+
+
 ⭐️ From [caixiaomao](https://github.com/caixiaomao)
