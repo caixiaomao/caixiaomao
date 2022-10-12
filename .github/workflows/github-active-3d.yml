@@ -15,10 +15,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          EMAIL: ${{ secrets.EMAIL }}
       - name: Commit & Push
         run: |
-          git config user.name caixiaomao
-          git config user.email 532001566@qq.com
+          git config user.name $USERNAME
+          git config user.email $EMAIL
           git add -A .
           git commit -m "generated" --allow-empty
           git push
