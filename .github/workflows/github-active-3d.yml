@@ -21,7 +21,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           EMAIL: ${{ secrets.EMAIL }}
         run: |
-          # git config user.name $USERNAME
+          git config user.name $USERNAME
           # git config user.email $EMAIL
           git add -A .
           git commit -m "github-profile-3d-contrib generated" --allow-empty
