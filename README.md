@@ -1,10 +1,6 @@
 <div align="center">
   
 <a href="https://github.com/caixiaomao"><img src="http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=096dd9&background=5637FF00&width=460&lines=Talk+is+cheap.+Show+me+the+code!" alt="Typing SVG" /></a>
-  
-<!-- ![cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) -->
-  
-[![cat](./images/giphy.webp)](https://github.com/caixiaomao)
     
 <a href="https://github.com/caixiaomao"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" with="100%" height="100%"></a>
 
