@@ -30,5 +30,4 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "<>"
           git add dist/snake
-          git commit -m "Update snake SVGs"
-          git push origin main
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update snake SVGs" && git push origin main)
