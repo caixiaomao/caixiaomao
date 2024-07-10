@@ -1,0 +1,31 @@
+name: generate animation
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake/github-contribution-grid-snake.svg
+            dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit snake.svg
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "<>"
+          git add dist/snake
+          git commit -m "Update snake SVGs"
+          git push origin main
