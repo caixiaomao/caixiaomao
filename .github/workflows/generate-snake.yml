@@ -1,4 +1,4 @@
-name: generate animation
+name: generate-snake
 on:
   schedule:
     - cron: "0 */24 * * *"
