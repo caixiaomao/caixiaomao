@@ -23,11 +23,6 @@ Windows                  43 hrs 3 mins       ███████████�
 Mac                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/caixiaomao/caixiaomao/main/assets/bar_graph.png)
-
-
  Last Updated on 11/07/2024 02:46:28 UTC
 <!--END_SECTION:waka-->
 
